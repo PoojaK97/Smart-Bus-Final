@@ -14,7 +14,7 @@ Implementation: Our approach is to include the following features in a user-frie
 3. *Smart Card Payment:* Use of RFIDs for payment which saves the users' time and is also more convenient than regular wallets.
             Effect: No more searching for changes any more and no more regretting for low cash or for forgetting your wallet at home.
 
-4.* Information Audiobook:* An audiobook which works on the current location and gives the user every detail be it historical or be it about an event happening in your nearby locations.
+4. *Information Audiobook:* An audiobook which works on the current location and gives the user every detail be it historical or be it about an event happening in your nearby locations.
             Effect: Users are never left alone to feel bored and in addition they get valuable information about places they are passing which definitely can be used by them at a later point for visit or for general knowledge.
 
 5. *Networks within buses:* A social network limited only to the bus where the users can disclose information according to their comforts and once they find someone with similar interests, they can use the time to exchange ideas and network.
